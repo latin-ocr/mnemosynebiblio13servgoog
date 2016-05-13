@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mnemosynebiblio13servgoog_0010.png"; bbox 0 0 3392 5384; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 716 4487 3099 4508">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 716 4487 3099 4508">
+     <span class='ocr_line' id='line_1_1' title="bbox 716 4487 3099 4508; baseline 0.002 -7"><span class='ocrx_word' id='word_1_1' title='bbox 716 4487 3099 4508; x_wconf 51' lang='lat' dir='ltr'>mmwmmmmmaevwmmmmmwm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 803 4535 3011 4582">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 803 4535 3011 4582">
+     <span class='ocr_line' id='line_1_2' title="bbox 803 4535 3011 4582; baseline 0.002 -13"><span class='ocrx_word' id='word_1_2' title='bbox 803 4535 871 4569; x_wconf 73' lang='lat' dir='ltr'>nx</span> <span class='ocrx_word' id='word_1_3' title='bbox 890 4535 1128 4571; x_wconf 68' lang='lat' dir='ltr'><strong>orrtcnu</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1146 4536 1540 4572; x_wconf 72' lang='lat' dir='ltr'>TYPOGRAPmCA</span> <span class='ocrx_word' id='word_1_5' title='bbox 1559 4538 1624 4573; x_wconf 74' lang='lat' dir='ltr'>m·</span> <span class='ocrx_word' id='word_1_6' title='bbox 1641 4536 1969 4575; x_wconf 81' lang='lat' dir='ltr'>BIBLIOPOLIO</span> <span class='ocrx_word' id='word_1_7' title='bbox 1988 4535 2127 4582; x_wconf 67' lang='lat' dir='ltr'>QUAE</span> <span class='ocrx_word' id='word_1_8' title='bbox 2147 4535 2389 4571; x_wconf 73' lang='lat' dir='ltr'><strong>ANTEuAc</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 2407 4536 2455 4572; x_wconf 73' lang='lat' dir='ltr'>E.</span> <span class='ocrx_word' id='word_1_10' title='bbox 2472 4537 2514 4573; x_wconf 80' lang='lat' dir='ltr'>J.</span> <span class='ocrx_word' id='word_1_11' title='bbox 2532 4537 2725 4573; x_wconf 79' lang='lat' dir='ltr'><strong>BBILLII</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 2744 4537 3011 4574; x_wconf 76' lang='lat' dir='ltr'><strong>ruEnUN&#39;r.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
